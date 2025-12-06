@@ -1,4 +1,8 @@
 # RL-vs-VLA-for-Autonomous-Cleaning-Manipulation
+로봇팔(e0509)이 테이블 위 물체를  
+**인식 → 접근 → 파지 → 정리**하는 작업을 자율적으로 수행할 수 있도록 하기 위해  
+두 가지 학습 방식을 실제로 적용하여 비교.
+
 # 🧹 **자율 청소 수행을 위한 RL vs VLA 비교 연구**
 
 **로봇 플랫폼:** Doosan Robotics E0509  
